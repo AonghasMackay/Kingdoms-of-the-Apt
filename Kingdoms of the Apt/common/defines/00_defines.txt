@@ -1,0 +1,4 @@
+NJominiMap = {
+	WORLD_EXTENTS_X = 8191
+	WORLD_EXTENTS_Z = 8191
+}

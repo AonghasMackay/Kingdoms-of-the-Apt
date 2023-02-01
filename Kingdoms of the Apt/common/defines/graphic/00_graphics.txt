@@ -1,0 +1,9 @@
+﻿NGraphics = {
+	SURROUND_MAP_INNER_RECT = { 0.0 0.0 8191.0 8191.0 } 			#x-start, y-start, x-end, y-end
+	SURROUND_MAP_OUTER_RECT = { -10000.0 -10000.0 20000.0 20000.0 }		#x-start, y-start, x-end, y-end
+}
+
+NCamera = {
+	PANNING_WIDTH =  8191
+	PANNING_HEIGHT = 8191
+}
